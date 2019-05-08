@@ -1,0 +1,17 @@
+{
+  "name": "zyro",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "<apendergrast44@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "engines": {
+    "node": "10.11.0"
+  }
+}
